@@ -16,7 +16,7 @@ spec:
         image:
           tag: 2.9.17
         ingress:
-          host: 10.0.6.87.xip.io
+          host: 10.0.6.87.nip.io
       version: v3
   destination:
     namespace: production
